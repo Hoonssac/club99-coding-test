@@ -17,4 +17,8 @@
 
 [더 맵게](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%9D%BC%EC%B0%A8-TIL)
 
+[이중 우선순위 큐](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-10%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)
+
+[카드 뭉치](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-10%EC%9D%BC%EC%B0%A8-TIL-%EC%B9%B4%EB%93%9C-%EB%AD%89%EC%B9%98)
+
 > 2024.07.22 ~ 2024.09.02
