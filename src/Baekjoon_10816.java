@@ -3,25 +3,25 @@ import java.util.*;
 public class Baekjoon_10816 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        HashMap<Integer, Integer> Count_map = new HashMap<>();
+        HashMap<Integer, Integer> countMap = new HashMap<>();
         StringBuilder result = new StringBuilder();
 
         int N = sc.nextInt();
         for (int i = 0; i < N; i++) {
             int value = sc.nextInt();
-            if (!Count_map.containsKey(value)) {
-                Count_map.put(value, 1);
+            if (!countMap.containsKey(value)) {
+                countMap.put(value, 1);
             }
             else {
-                Count_map.replace(value, Count_map.get(value) + 1);
+                countMap.replace(value, countMap.get(value) + 1);
             }
         }
 
         int M = sc.nextInt();
         for (int i = 0; i < M; i++) {
             int input = sc.nextInt();
-            if (Count_map.containsKey(input)) {
-                result.append(Integer.toString(Count_map.get(input)) + " ");
+            if (countMap.containsKey(input)) {
+                result.append(Integer.toString(countMap.get(input)) + " ");
             }
             else {
                 result.append("0 ");
@@ -29,6 +29,7 @@ public class Baekjoon_10816 {
         }
         
         System.out.println(result.toString().trim());
+        
 
         sc.close();
     }
