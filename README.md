@@ -27,4 +27,6 @@
 
 [숫자 카드2](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-14%EC%9D%BC%EC%B0%A8-TIL-%EC%88%AB%EC%9E%90-%EC%B9%B4%EB%93%9C2)
 
+[트라이(Trie) 자료구조](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%8A%B8%EB%9D%BC%EC%9D%B4Trie)
+
 > 2024.07.22 ~ 2024.09.02
