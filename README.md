@@ -31,4 +31,6 @@
 
 [모음 사전](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EB%AA%A8%EC%9D%8C-%EC%82%AC%EC%A0%84)
 
+[촌수 계산](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%EC%B4%8C%EC%88%98%EA%B3%84)
+
 > 2024.07.22 ~ 2024.09.02
