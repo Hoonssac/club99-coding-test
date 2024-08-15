@@ -47,5 +47,6 @@
 
 [대충 만든 자판](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-24%EC%9D%BC%EC%B0%A8-TIL-%EB%8C%80%EC%B6%A9-%EB%A7%8C%EB%93%A0-%EC%9E%90%ED%8C%90)
 
+[Evaluate Division](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-Evaluate-Division)
 
 > 2024.07.22 ~ 2024.09.02
