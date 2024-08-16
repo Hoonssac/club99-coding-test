@@ -49,4 +49,6 @@
 
 [Evaluate Division](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-Evaluate-Division)
 
+[달리기 경주](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-Evaluate-Division)
+
 > 2024.07.22 ~ 2024.09.02
