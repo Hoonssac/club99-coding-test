@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Baekjoon_10815",
+            "request": "launch",
+            "mainClass": "Baekjoon_10815",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Baekjoon_10816",
+            "request": "launch",
+            "mainClass": "Baekjoon_10816",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Baekjoon_2644",
+            "request": "launch",
+            "mainClass": "Baekjoon_2644",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Baekjoon_2667",
+            "request": "launch",
+            "mainClass": "Baekjoon_2667",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode_745",
+            "request": "launch",
+            "mainClass": "LeetCode_745",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_131127",
+            "request": "launch",
+            "mainClass": "Programmers_131127",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_148653",
+            "request": "launch",
+            "mainClass": "Programmers_148653",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_159994",
+            "request": "launch",
+            "mainClass": "Programmers_159994",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_160586",
+            "request": "launch",
+            "mainClass": "Programmers_160586",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_178871",
+            "request": "launch",
+            "mainClass": "Programmers_178871",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_42883",
+            "request": "launch",
+            "mainClass": "Programmers_42883",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_42885",
+            "request": "launch",
+            "mainClass": "Programmers_42885",
+            "projectName": "99-Coding-test"
+        },
+        {
+            "type": "java",
+            "name": "Programmers_76502",
+            "request": "launch",
+            "mainClass": "Programmers_76502",
+            "projectName": "99-Coding-test"
+        }
+    ]
+}
