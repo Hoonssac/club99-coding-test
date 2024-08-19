@@ -55,4 +55,6 @@
 
 [괄호 회전하기](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EA%B4%84%ED%98%B8-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 
+[Longest Increasing Subsequence](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-TIL-Longest-Increasing-Subsequence)
+
 > 2024.07.22 ~ 2024.09.02
