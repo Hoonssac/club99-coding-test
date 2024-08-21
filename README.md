@@ -59,4 +59,6 @@
 
 [Find Right Interval](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-30%EC%9D%BC%EC%B0%A8-TIL-Find-Right-Interval)
 
+[점프 점프](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-31%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%90%ED%94%84-%EC%A0%90%ED%94%84)
+
 > 2024.07.22 ~ 2024.09.02
