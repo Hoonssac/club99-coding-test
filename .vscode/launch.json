@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Baekjoon_14248",
+      "request": "launch",
+      "mainClass": "Baekjoon_14248",
+      "projectName": "99-Coding-test"
+    },
+    {
+      "type": "java",
       "name": "LeetCode_300",
       "request": "launch",
       "mainClass": "LeetCode_300",
