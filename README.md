@@ -51,4 +51,14 @@
 
 [달리기 경주](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-Evaluate-Division)
 
+[할인 행사](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC)
+
+[괄호 회전하기](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EA%B4%84%ED%98%B8-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+
+[Longest Increasing Subsequence](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-TIL-Longest-Increasing-Subsequence)
+
+[Find Right Interval](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-30%EC%9D%BC%EC%B0%A8-TIL-Find-Right-Interval)
+
+[점프 점프](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-31%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%90%ED%94%84-%EC%A0%90%ED%94%84)
+
 > 2024.07.22 ~ 2024.09.02
