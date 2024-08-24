@@ -65,4 +65,6 @@
 
 [리코쳇 로봇](https://velog.io/write?id=1e2056db-43df-4d74-a806-a5020530f1ac)
 
+[타겟 넘버](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)
+
 > 2024.07.22 ~ 2024.09.02
