@@ -1,4 +1,5 @@
 ## 🔥99클럽 코딩 테스트 스터디 3기
+
 [자연수 뒤집어 배열로 만들기](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4)
 
 [x만큼 간격이 있는 n개의 숫자](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%9D%BC%EC%B0%A8-TIL)
@@ -73,5 +74,7 @@
 ](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-36%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84-%EB%91%98%EB%A1%9C-%EB%82%98%EB%88%84%EA%B8%B0)
 
 [부등호](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-TIL-%EB%B6%80%EB%93%B1%ED%98%B8)
+
+[디펜스 게임](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-38%EC%9D%BC%EC%B0%A8-TIL-%EB%94%94%ED%8E%9C%EC%8A%A4-%EA%B2%8C%EC%9E%84)
 
 > 2024.07.22 ~ 2024.09.02
