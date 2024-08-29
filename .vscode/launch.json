@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Programmers_172927",
+      "request": "launch",
+      "mainClass": "Programmers_172927",
+      "projectName": "99-Coding-test"
+    },
+    {
+      "type": "java",
       "name": "Programmers_142085",
       "request": "launch",
       "mainClass": "Programmers_142085",
