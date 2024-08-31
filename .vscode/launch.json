@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LeetCode_63",
+      "request": "launch",
+      "mainClass": "LeetCode_63",
+      "projectName": "99-Coding-test"
+    },
+    {
+      "type": "java",
       "name": "LeetCode_62",
       "request": "launch",
       "mainClass": "LeetCode_62",
