@@ -1,4 +1,7 @@
 ## 🔥99클럽 코딩 테스트 스터디 3기
+![항해99](https://github.com/user-attachments/assets/33ad0bf1-bb6e-4f86-b85e-0985095f4638)
+
+---
 
 [자연수 뒤집어 배열로 만들기](https://velog.io/@b1uesoda/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4)
 
